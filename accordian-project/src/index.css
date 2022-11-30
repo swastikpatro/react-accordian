@@ -412,5 +412,5 @@ main {
 .btn:hover {
   background: transparent;
   box-shadow: none;
-  transform: rotateZ(90deg);
+  transform: rotateZ(180deg);
 }
